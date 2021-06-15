@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=Talan Core
+Comment=Connect to the Talan P2P Network
+Exec=talan-qt %u
+Terminal=false
+Type=Application
+Icon=talan128
+MimeType=x-scheme-handler/talan;
+Categories=Network;
+StartupWMClass=Talan-qt
+Name[en_US]=talan-qt

@@ -1,0 +1,6 @@
+usr/local/bin/talan-qt usr/bin
+share/pixmaps/talan32.xpm usr/share/pixmaps
+share/pixmaps/talan16.xpm usr/share/pixmaps
+share/pixmaps/talan128.png usr/share/pixmaps
+debian/talan-qt.desktop usr/share/applications
+debian/talan-qt.protocol usr/share/kde4/services/
